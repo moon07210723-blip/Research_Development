@@ -1,0 +1,21 @@
+diff a/Assets/Scripts/STT_Scripts/CSV_Suvivor.cs b/Assets/Scripts/STT_Scripts/CSV_Suvivor.cs	(rejected hunks)
+@@ -74,15 +74,15 @@
+ 
+             csv = csvTEXT.text;
+             stt = sttText.text;
+-            Debug.Log("CSV ���� : " + csv);
+-            Debug.Log("STT ���� : " + stt);
++            //Debug.Log("CSV ���� : " + csv);
++            //Debug.Log("STT ���� : " + stt);
+ 
+             csv = csv.Replace(" ", string.Empty);
+             stt = stt.Replace(" ", string.Empty);
+ 
+ 
+-            Debug.Log("CSV �Ľ� : " + csv);
+-            Debug.Log("STT �Ľ� : " + stt);
++            //Debug.Log("CSV �Ľ� : " + csv);
++            //Debug.Log("STT �Ľ� : " + stt);
+ 
+             if (csv == stt)
+             {
