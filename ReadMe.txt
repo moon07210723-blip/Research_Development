@@ -1,5 +1,8 @@
 # Hearing Rehabilitation Game Project
 
+## ソースコードの場所
+##Assets/2.Script
+
 ## プロジェクト概要
 /*
 UnityとC#を使用して制作した、聴覚リハビリテーションを目的としたゲームプロジェクトです。
